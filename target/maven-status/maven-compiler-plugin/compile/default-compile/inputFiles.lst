@@ -1,0 +1,14 @@
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/services/OrderService.java
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/models/LineItem.java
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/models/SaleOrder.java
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/repo/SaleOrderRepository.java
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/controllers/OrderController.java
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/models/Product.java
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/models/ProductTag.java
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/controllers/ProductController.java
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/repo/LineItemRepository.java
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/services/ProductService.java
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/repo/ProductRepository.java
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/repo/ProductTagRepository.java
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/models/MessageResponse.java
+/Users/cycraft/Desktop/courses/ntust_devsecops/SimpleShopMySQL/src/main/java/com/example/simpleshopmysql/SimpleShopMySqlApplication.java
