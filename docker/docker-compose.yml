@@ -1,7 +1,7 @@
 version: '2.1'
 services:
   database:
-    image: shichoc/mysqlshop
+    image: sujimmy/mysqlshop:latest
     container_name: database
     ports:
       - "3306"
@@ -16,7 +16,7 @@ services:
       timeout: 20s
       retries: 10
   myapp:
-    image: shichoc/simpleshopmysql:0.0.1-SNAPSHOT
+    image: sujimmy/simpleshopmysql:latest
     container_name: simpleshopapp
     ports:
       - "8080"
