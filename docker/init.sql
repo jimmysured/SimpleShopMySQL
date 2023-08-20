@@ -1,6 +1,7 @@
 CREATE SCHEMA IF NOT EXISTS `simpleshop` DEFAULT CHARACTER SET utf8mb4;
 
--- Test for github action 08/20 22:09
+-- Test for github action #1 08/20 22:09
+-- Test for github action #2 08/20 22:17
 
 -- MySQL dump 10.13  Distrib 8.0.27, for Win64 (x86_64)
 --
