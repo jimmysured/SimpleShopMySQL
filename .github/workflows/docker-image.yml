@@ -19,10 +19,9 @@ jobs:
         password: ${{ secrets.DOCKER_PASSWORD }}
 
     - name: Build Docker image
-      run: docker build -t sujimmy/mysqlshop:latest ./docker
-
-    - name: Create jar
-      run: mvn clean package dockerfile:build -DskipTests=true
+      run: | 
+       docker build -t sujimmy/mysqlshop:latest ./docker
+       mvn clean package dockerfile:build -DskipTests=true
 
     - name: Push Docker image
       run: | 

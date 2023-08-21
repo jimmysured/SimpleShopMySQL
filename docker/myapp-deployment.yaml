@@ -31,7 +31,7 @@ spec:
               value: passwd
             - name: SPRING_DATASOURCE_URL
               value: jdbc:mysql://database:3306/simpleshop
-          image: shichoc/simpleshopmysql:0.0.1-SNAPSHOT
+          image: sujimmy/simpleshopmysql:latest
           name: simpleshopapp
           ports:
             - containerPort: 8080

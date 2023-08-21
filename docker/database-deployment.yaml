@@ -29,7 +29,7 @@ spec:
         - env:
             - name: MYSQL_ROOT_PASSWORD
               value: passwd
-          image: shichoc/mysqlshop
+          image: sujimmy/mysqlshop:latest
           livenessProbe:
             exec:
               command:
