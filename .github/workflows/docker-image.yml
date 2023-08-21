@@ -27,4 +27,5 @@ jobs:
     - name: Push Docker image
       run: | 
        docker push sujimmy/mysqlshop:latest
+       docker tag shichoc/simpleshopmysql:0.0.1-SNAPSHOT sujimmy/simpleshopmysql:latest
        docker push sujimmy/simpleshopmysql:latest
